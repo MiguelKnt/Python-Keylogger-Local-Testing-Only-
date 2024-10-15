@@ -1,4 +1,4 @@
-# Python Keylogger (Educational Purposes)
+# Python Keylogger 
 
 ## Overview
 
