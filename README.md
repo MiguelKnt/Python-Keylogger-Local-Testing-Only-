@@ -26,15 +26,7 @@ keyboard.wait()
 
 ## Disclaimer
 
-This keylogger is intended **only for educational purposes** and has **not been run**. Unauthorized use on systems you do not own or have explicit permission to test on is illegal and unethical.
+This keylogger is intended **only for educational purposes** . Unauthorized use on systems you do not own or have explicit permission to test on is illegal and unethical.
 
-## Next Steps
 
-This is part of a broader series focused on:
-
-- Secure password managers
-- Ethical hacking tools
-- Defensive security mechanisms
-
-Explore the repository for more projects in this series!
 
