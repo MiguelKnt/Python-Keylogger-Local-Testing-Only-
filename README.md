@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is part of a cybersecurity coding series, demonstrating how a simple keylogger can be built using Python. This repository is part of a cybersecurity coding series, demonstrating how a simple keylogger can be built using Python. The purpose is **educational**, to understand how keyloggers function in a controlled environment.  
+This repository is part of a cybersecurity coding series, demonstrating how a simple keylogger can be built using Python. The purpose is **educational**, to understand how keyloggers function in a controlled environment.  
 ## Features
 
 - Logs keystrokes in real-time to a local file (`keystrokes2.txt`).
